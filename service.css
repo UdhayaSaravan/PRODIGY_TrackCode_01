@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main{
+    width: 100%;
+    background: url(https://img.freepik.com/free-vector/abstract-geometric-wireframe-background_52683-59421.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    font-family: sans-serif;
+}
+
+.navbar{
+    width: 86%;
+    display: flex;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar .logo{
+    width: 160px;
+    cursor: pointer;
+    margin-top: -3%;
+    margin-left: -2%;
+    padding: 20px;
+}
+
+ul{
+    margin-top: -4%;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 16px;
+}
+
+ul li a{
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: darkslategray;
+    margin-top: -3%;
+    transition: .4s ease;
+
+}
+
+ul li a:hover{
+    color: blue;
+}
+
+h1
+{
+    color: blue;
+    text-align: center;
+}
+
+.box1
+{
+    border: 2px;
+    border-radius: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+}
+
+.box2
+{
+    border: 2px;
+    border-radius: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+}
+
+.box3
+{
+    border: 2px;
+    border-radius: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+}
+
+.box4
+{
+    border: 2px;
+    border-radius: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+}
+
+.box5
+{
+    border: 2px;
+    border-radius: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+}
+
+.box6
+{
+    border: 2px;
+    border-radius: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+}
